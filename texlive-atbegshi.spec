@@ -1,6 +1,6 @@
 Name:		texlive-atbegshi
 Version:	53051
-Release:	1
+Release:	2
 Summary:	Execute stuff at \shipout time
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atbegshi
