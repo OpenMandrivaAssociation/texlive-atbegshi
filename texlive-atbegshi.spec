@@ -3,7 +3,7 @@ Version:	53051
 Release:	2
 Summary:	Execute stuff at \shipout time
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/atbegshi
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/atbegshi
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atbegshi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/atbegshi.doc.r%{version}.tar.xz
